@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+My name is Jack McCarthy and I am learning how to code. 
+
+At the moment I am focusing on: 
+- Ruby
+- Javascript
+- HTML
+- CSS
+- Git 
+- Command Line
+
+Always interested to connect and learn more or collaborate on a project. 
+
+Cheers
+
+Jack 
+
 <!--
 **jackmcc08/jackmcc08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
