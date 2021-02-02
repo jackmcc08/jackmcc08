@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-My name is Jack McCarthy and I am learning how to code. 
+My name is Jack McCarthy and I am learning how to program. I am currently enrolled in the Makers Coding Bootcamp in london. 
 
-At the moment I am focusing on: 
+At the moment I am focusing on learning: 
 - Ruby
-- Javascript
-- HTML
-- CSS
-- Git 
-- Command Line
 
-Always interested to connect and learn more or collaborate on a project. 
+Always interested to connect and learn or collaborate on a project. 
 
 Cheers
 
