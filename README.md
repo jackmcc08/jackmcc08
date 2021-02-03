@@ -7,6 +7,8 @@ At the moment I am focusing on learning:
 
 Always interested to connect and learn or collaborate on a project. 
 
+Here is my github pages website for more info: https://jackmcc08.github.io/ 
+
 Cheers
 
 Jack 
