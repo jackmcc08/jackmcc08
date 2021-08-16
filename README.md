@@ -28,7 +28,6 @@ I’m currently learning C#.Net.
  I am always interested to connect and collaborate on a project, and am ready to start at short notice.
 
 How to reach me: 
-- [Email](mailto:jackmcc08@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jackmcc08/) 
 
 Pronouns: He/Him
