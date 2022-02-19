@@ -1,21 +1,19 @@
 ### Hi there 👋
 
-My name is Jack McCarthy and I am currently multiclassing as a programmer. I recently graduated from the Makers Academy Bootcamp and am looking for opportunities to work as a junior developer. 
-
-Please check out my CV for a list of my projects and little bit more about me. [Github CV](https://github.com/jackmcc08/cv)
+My name is Jack McCarthy and I am currently a full-stack software developer at Avanade working on fullstack react applications and dotnet microservices hosted on Azure. I recently graduated from the Makers Academy Bootcamp and always open to work on projects to continue to develop my skills.
 
 <h3 >🛠  Tech Stack Experience</h3>
 <ul>
-  <li>Ruby | Rails | RSPEC </li>
-  <li>Javascript | React.js | Node.js </li>
-  <li>HTML | CSS</li>
-  <li>PostgreSQL </li>
-  <li>Heroku</li>
+  <li>.net | C# </li>
+  <li>React.js | Javascript</li>
+  <li>CosmosDB | PostgreSQL</li>
+  <li>Azure | Azure Functions | Docker | Kubernetes</li>
+  <li>Terraform</li>
 </ul>
 
 
 <h3>🌱  Current Projects</h3>
-I’m currently learning C#.Net.
+Currently learning PowerShell! 
 
 <h3>:bouquet: Recent Projects - Repo's pinned below</h3>
 <ul>
