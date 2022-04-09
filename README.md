@@ -4,7 +4,7 @@ My name is Jack McCarthy and I am currently a full-stack software developer at A
 
 <h3 >🛠  Tech Stack Experience</h3>
 <ul>
-  <li>.net | C# </li>
+  <li>.NET | C# </li>
   <li>React.js | Javascript</li>
   <li>CosmosDB | PostgreSQL</li>
   <li>Azure | Azure Functions | Docker | Kubernetes</li>
