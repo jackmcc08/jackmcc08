@@ -17,7 +17,7 @@ My name is Jack and I am a full-stack software developer at Avanade.
 Currently playing around with raspberry pi 5!
 
 <h3>📫  Connect</h3>
-I am always interested to connect and collaborate on a project.
+I am always interested to connect and collaborate on projects.
 
 
 How to reach me: 
