@@ -1,22 +1,23 @@
 ### Hi there 👋
 
-My name is Jack McCarthy and I am currently a full-stack software developer at Avanade. I am always open to work on projects to continue to develop my skills.
+My name is Jack McCarthy and I am a full-stack software developer at Avanade. I am always open to work on projects to continue to develop my skills.
 
-<h3 >🛠  Tech Stack Experience</h3>
+<h3 >🛠  Skills</h3>
 <ul>
   <li>.NET | C# </li>
   <li>React.js | Javascript</li>
   <li>CosmosDB | PostgreSQL</li>
-  <li>Azure | Azure Functions | Docker | Kubernetes</li>
+  <li>Azure Cloud</li>
   <li>Ansible</li>
+  <li>Linux</li>
+  <li>Docker | Kubernetes</li>
 </ul>
-
 
 <h3>🌱  Current Projects</h3>
 Currently playing around with raspberry pi 5!
 
 <h3>📫  Connect</h3>
- I am always interested to connect and collaborate on a project, and am ready to start at short notice.
+ I am always interested to connect and collaborate on a project.
 
 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/jackmcc08/) 
