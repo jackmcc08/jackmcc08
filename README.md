@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jack McCarthy and I am a full-stack software developer at Avanade. I am always open to work on projects to continue to develop my skills.
+My name is Jack and I am a full-stack software developer at Avanade.
 
 <h3 >🛠  Skills</h3>
 <ul>
@@ -17,7 +17,8 @@ My name is Jack McCarthy and I am a full-stack software developer at Avanade. I 
 Currently playing around with raspberry pi 5!
 
 <h3>📫  Connect</h3>
- I am always interested to connect and collaborate on a project.
+I am always interested to connect and collaborate on a project.
+
 
 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/jackmcc08/) 
