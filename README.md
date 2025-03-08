@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 My name is Jack and I am a full-stack software developer at Avanade.
 
