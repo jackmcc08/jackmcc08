@@ -2,7 +2,7 @@
 
 My name is Jack and I am a full-stack software developer at Avanade.
 
-Please check out my blog [jackmcc08.github.io](https://jackmcc08.github.io)
+Please check out my blog [Codex Blues](https://www.codexblues.com)
 
 <h3 >🛠  Skills</h3>
 <ul>
