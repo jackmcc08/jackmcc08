@@ -2,7 +2,7 @@
 
 My name is Jack and I am a full-stack software developer at Avanade.
 
-Please check out my blog [Codex Blues](https://www.codexblues.com)
+Please check out my blog [Codex Blues](https://www.codexblues.com){:target="_blank"} 
 
 <h3 >🛠  Skills</h3>
 <ul>
@@ -24,7 +24,7 @@ Playing around with raspberry pi5!
 I am always interested to connect and collaborate on projects.
 
 How to reach me: 
-- [LinkedIn](https://www.linkedin.com/in/jackmcc08/) 
+- [LinkedIn](https://www.linkedin.com/in/jackmcc08/){:target="_blank"}  
 
 Pronouns: He/Him
 
