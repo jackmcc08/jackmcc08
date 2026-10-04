@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Jack and I am a full-stack software developer at Avanade.
+My name is Jack and I am a Platform Engineering Manager at Baringa.
 
 Please check out my blog [Codex Blues](https://www.codexblues.com)
 
